@@ -3,7 +3,7 @@ import os
 from pytimeparse import parse
 
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")  
-TELEGRAM_CHAT_ID = '340356067'  
+TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID") 
 
 def reply(text):
     time = parse(text)
