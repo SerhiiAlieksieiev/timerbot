@@ -28,3 +28,9 @@
 
 ### Цели проекта
 Код написан в учебных целях — это урок в [курсе](https://dvmn.org/referrals/khnIM90ONObdHawnJXjYOyKnwrucdRj9zsA5DEPm/) по Python на сайте [Devman](https://dvmn.org/referrals/eC72w2BASG9Zj3T7iMTSsxDbHXthCmJmeLKBNfwf/).
+
+### Подсказки
+
+[Ссылка на урок](https://dvmn.org/modules/meeting-python/lesson/timer-in-telegram/#3)
+
+[Документация к библиотеке ptbot](https://devman.org/encyclopedia/modules/ptbot_docs/#top)
