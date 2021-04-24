@@ -13,7 +13,7 @@
 4. Установите зависимости  командой 
 
 	`py -m pip install -r requirements.txt`
-5. Добавьте переменные окружение
+5. Добавьте [переменные окружение](https://github.com/SerhiiAlieksieiev/timerbot#%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%BE%D0%BA%D1%80%D1%83%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F)
    
 6. Запустите скрипт командой 
 
