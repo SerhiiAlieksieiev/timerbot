@@ -1,8 +1,0 @@
-Ссылка на урок
-https://dvmn.org/modules/meeting-python/lesson/timer-in-telegram/#3
-
-Документация к ptbot
-https://devman.org/encyclopedia/modules/ptbot_docs/#top
-
-Бот справочник (помогает узнать chat id)
-https://telegram.me/userinfobot
